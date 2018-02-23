@@ -6,7 +6,8 @@
  * and open the template in the editor.
  */
 
-echo 'test';
-echo 'oooo';
+echo 'kimek';
 
 echo 'cuba';
+
+echo 'penyu';
